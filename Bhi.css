@@ -1,0 +1,26 @@
+.pic{
+    width: 50%;
+        border-radius: 50%
+}
+body{
+   text-align: center;
+    padding-top:200px;
+ background: linear-gradient(#ff00ff 0%,
+ #002966 100%);
+}
+#welcome{
+    background: linear-gradient(#ff00ff 0%,
+ #002966 100%)
+}
+.line{
+    height: 6px;
+    width: 1600px;
+        background-color: ghostwhite;
+    margin: 8px auto;
+}
+p{
+    margin: 20px auto;
+    width: 1000px;
+    color:aqua;
+    font-size: 30px;
+}
